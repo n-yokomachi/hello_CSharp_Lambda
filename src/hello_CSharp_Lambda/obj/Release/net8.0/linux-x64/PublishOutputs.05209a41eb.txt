@@ -1,6 +1,0 @@
-D:\work\Workshops\hello_CSharp_Lambda\src\hello_CSharp_Lambda\bin\Release\net8.0\publish\hello_CSharp_Lambda.deps.json
-D:\work\Workshops\hello_CSharp_Lambda\src\hello_CSharp_Lambda\bin\Release\net8.0\publish\hello_CSharp_Lambda.runtimeconfig.json
-D:\work\Workshops\hello_CSharp_Lambda\src\hello_CSharp_Lambda\bin\Release\net8.0\publish\hello_CSharp_Lambda.pdb
-D:\work\Workshops\hello_CSharp_Lambda\src\hello_CSharp_Lambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
-D:\work\Workshops\hello_CSharp_Lambda\src\hello_CSharp_Lambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
-D:\work\Workshops\hello_CSharp_Lambda\src\hello_CSharp_Lambda\bin\Release\net8.0\publish\hello_CSharp_Lambda.dll
